@@ -118,10 +118,12 @@ VITALITY      ██████████████████████
 
 ## ⟪ DUNGEON RECORDS ⟫
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VarnoxL&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarnoxL&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VarnoxL&theme=radical" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VarnoxL&theme=radical" />
 
 <img src="https://streak-stats.demolab.com?user=VarnoxL&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=VarnoxL&bg_color=0D1117&color=A855F7&line=A855F7&point=22D3EE&area=true&hide_border=true" />
 
 </div>
 
