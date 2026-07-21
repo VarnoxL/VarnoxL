@@ -18,44 +18,46 @@
 
 <div align="center">
 
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center"><b>⟪ STATUS WINDOW ⟫</b></td>
-<td align="center"><b>⟪ CURRENT QUEST ⟫</b></td>
+<td align="center" width="50%"><b>⟪ STATUS WINDOW ⟫</b></td>
+<td align="center" width="50%"><b>⟪ CURRENT QUEST ⟫</b></td>
 </tr>
 <tr>
 <td valign="top">
 
 ```
-╔════════════════════════════════╗
-║         HUNTER PROFILE         ║
-╠════════════════════════════════╣
-║  NAME   :  Daniel Liu          ║
-║  CLASS  :  Player              ║
-║  RANK   :  S                   ║
-║  GUILD  :  Independent         ║
-║  WEAPON :  Keyboard (+7)       ║
-║  TITLE  :  He Who Rises Again  ║
-╚════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║               HUNTER  PROFILE                ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  NAME    :  Daniel Liu                       ║
+║  CLASS   :  Player                           ║
+║  RANK    :  S                                ║
+║  GUILD   :  Independent                      ║
+║  WEAPON  :  Keyboard (+7)                    ║
+║  TITLE   :  He Who Rises Again               ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 </td>
 <td valign="top">
 
 ```
-[■]  Show up every day.
-     No skipped days.
-
-[■]  Keep building through
-     the rejections.
-
-[ ]  Clear the next gate.
-
-[ ]  Out-work the version
-     of me from last year.
-
-  REWARD:  EXP + ∞
-  STATUS:  IN PROGRESS
+╔══════════════════════════════════════════════╗
+║               ACTIVE  QUESTS                 ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  [■]  Show up every day. No skipped days.    ║
+║  [■]  Keep building through the rejections.  ║
+║  [ ]  Clear the next gate.                   ║
+║  [ ]  Out-work last year's version of me.    ║
+║                                              ║
+║  REWARD  :  EXP + ∞                          ║
+║  STATUS  :  IN PROGRESS                      ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
 </td>
