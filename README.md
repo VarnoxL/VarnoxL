@@ -39,19 +39,19 @@
 </td></tr>
 </table>
 
-### ⟪ STATS ⟫
+### ⟪ CURRENT QUEST ⟫
 
 <table>
 <tr><td>
 
 ```
-STRENGTH      ████████████████████░░░░░   Backend      80
-AGILITY       ██████████████████████░░░   Frontend     88
-INTELLIGENCE  █████████████████████░░░░   Algorithms   84
-PERCEPTION    ███████████████████░░░░░░   Debugging    76
-VITALITY      ████████████████████████░   Caffeine     96
+[■]  Show up every day. No skipped days.
+[■]  Keep building through the rejections.
+[ ]  Clear the next gate.
+[ ]  Out-work the version of me from last year.
 
-                        AVAILABLE POINTS: ∞
+                    REWARD:  EXP + ∞
+                    STATUS:  IN PROGRESS
 ```
 
 </td></tr>
