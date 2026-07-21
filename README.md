@@ -4,7 +4,7 @@
 
 <img src="banner.gif" width="320" alt="Sung Jin-Woo" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=1500&pause=4000&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=ARISE.;Daniel+Liu;Builder+of+Things" alt="ARISE." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=1500&pause=4000&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=ARISE.;Daniel+Liu" alt="ARISE." />
 
 <p>
 <img src="https://img.shields.io/badge/RANK-S--CLASS-A855F7?style=for-the-badge&labelColor=0D1117" />
@@ -32,7 +32,7 @@
 ║  RANK    :  S                                ║
 ║  GUILD   :  Independent                      ║
 ║  WEAPON  :  Keyboard (+7)                    ║
-║  TITLE   :  He Who Ships                     ║
+║  TITLE   :  He Who Rises Again               ║
 ╚══════════════════════════════════════════════╝
 ```
 
