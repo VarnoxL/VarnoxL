@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="banner.gif" width="320" alt="Sung Jin-Woo" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=40&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=80&lines=%E2%9A%94%EF%B8%8F+ARISE.;Daniel+Liu;Full-Stack+Developer;E-Rank+%E2%86%92+S-Rank" alt="ARISE" />
 
 <img src="https://img.shields.io/badge/RANK-S--CLASS-A855F7?style=for-the-badge&labelColor=0D1117" />
