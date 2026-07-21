@@ -4,11 +4,15 @@
 
 <img src="banner.gif" width="320" alt="Sung Jin-Woo" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=40&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=80&lines=ARISE.;Daniel+Liu;Builder+of+Things;E-Rank+to+S-Rank" alt="ARISE" />
+<h1>ARISE.</h1>
 
+<h3>Daniel Liu &nbsp;·&nbsp; Builder of Things</h3>
+
+<p>
 <img src="https://img.shields.io/badge/RANK-S--CLASS-A855F7?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/CLASS-SHADOW_MONARCH-7C3AED?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/STATUS-LEVELING_UP-22D3EE?style=for-the-badge&labelColor=0D1117" />
+</p>
 
 </div>
 
