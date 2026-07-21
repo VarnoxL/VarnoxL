@@ -14,13 +14,6 @@
 
 ---
 
-> ### `[ SYSTEM ]`
-> **You have acquired the job class: `FULL-STACK DEVELOPER`.**
-> This class is unique. There is no one else who holds it.
-> *Will you accept?* → **`YES`**
-
----
-
 <div align="center">
 
 ## ⟪ STATUS WINDOW ⟫
@@ -70,8 +63,6 @@ VITALITY      ██████████████████████
 
 ## ⟪ ARSENAL ⟫
 
-> `[ SYSTEM ]` *Inventory opened. 12 items equipped.*
-
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
@@ -96,46 +87,7 @@ VITALITY      ██████████████████████
 
 <div align="center">
 
-## ⟪ SHADOW ARMY ⟫
-
-> `[ SYSTEM ]` *3 shadows have answered the call.*
-
-</div>
-
-### 🗡️ `SHADOW #1` — **[cougar-planner](https://github.com/VarnoxL/cougar-planner)**
-`RANK: A` · A planner app for students. <!-- TODO: one line on what it actually does -->
-`JavaScript`
-
-### 🏹 `SHADOW #2` — **[internship-scraper](https://github.com/VarnoxL/internship-scraper)**
-`RANK: B` · Scrapes internship postings so the hunt runs itself. <!-- TODO: confirm -->
-`Python`
-
-### 🛡️ `SHADOW #3` — **[neetcode-submissions](https://github.com/VarnoxL/neetcode-submissions)**
-`RANK: B` · Daily grind. Every NeetCode problem, solved and committed.
-`Python` `Algorithms`
-
----
-
-<div align="center">
-
-## ⟪ DUNGEON RECORDS ⟫
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VarnoxL&theme=radical" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VarnoxL&theme=radical" />
-
-<img src="https://streak-stats.demolab.com?user=VarnoxL&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=VarnoxL&bg_color=0D1117&color=A855F7&line=A855F7&point=22D3EE&area=true&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
 ## ⟪ GATE ACCESS ⟫
-
-> `[ SYSTEM ]` *A gate has opened. Enter at your own risk.*
 
 <a href="https://www.linkedin.com/in/daniel-liu-171b89381">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
