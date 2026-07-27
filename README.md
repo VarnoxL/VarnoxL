@@ -73,7 +73,7 @@
 ## ⟪ REAL-WORLD COORDINATES ⟫
 
 🎓 **Computer Engineering** @ Southern Illinois University Edwardsville — Expected May 2029<br>
-🚀 **Seeking:** Summer 2027 Software Engineering / Full-Stack internships<br>
+🚀 **Seeking:** Summer 2027 internships<br>
 🇺🇸 **Work Status:** U.S. Citizen — no sponsorship required<br>
 📫 **danielliu070809@gmail.com**
 
